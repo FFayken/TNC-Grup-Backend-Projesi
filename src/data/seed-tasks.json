@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Backend klasör yapısını oluştur",
+    "description": "routes, controllers, services ve middlewares klasörlerini hazırla.",
+    "status": "completed",
+    "priority": "high",
+    "assignee": "musa",
+    "project": "TaskFlow",
+    "dueDate": "2026-11-10",
+    "createdAt": "2026-11-03T09:00:00.000Z",
+    "updatedAt": "2026-11-05T15:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Logger middleware yaz",
+    "description": "Tüm isteklerin method, endpoint ve zaman damgasını kaydet.",
+    "status": "completed",
+    "priority": "medium",
+    "assignee": "ayse",
+    "project": "TaskFlow",
+    "dueDate": "2026-11-12",
+    "createdAt": "2026-11-04T10:15:00.000Z",
+    "updatedAt": "2026-11-06T11:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Görev CRUD endpoint'lerini geliştir",
+    "description": "Ekleme, listeleme, detay, güncelleme ve silme işlemleri.",
+    "status": "in-progress",
+    "priority": "high",
+    "assignee": "musa",
+    "project": "TaskFlow",
+    "dueDate": "2026-11-18",
+    "createdAt": "2026-11-05T08:45:00.000Z",
+    "updatedAt": "2026-11-14T16:20:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Postman test koleksiyonu hazırla",
+    "description": "Tüm CRUD uçları için istek ve testleri yaz.",
+    "status": "todo",
+    "priority": "medium",
+    "assignee": "zeynep",
+    "project": "TaskFlow",
+    "dueDate": "2026-11-20",
+    "createdAt": "2026-11-06T13:00:00.000Z",
+    "updatedAt": "2026-11-06T13:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Mobil uygulama giriş ekranı tasarımı",
+    "description": "Figma üzerinde giriş ve kayıt ekranlarını tasarla.",
+    "status": "in-progress",
+    "priority": "low",
+    "assignee": "ayse",
+    "project": "Mobil Uygulama",
+    "dueDate": "2026-11-25",
+    "createdAt": "2026-11-07T09:30:00.000Z",
+    "updatedAt": "2026-11-13T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Veritabanı yedekleme planı",
+    "description": "Haftalık otomatik yedekleme senaryosunu belirle.",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "emre",
+    "project": "Altyapı",
+    "dueDate": "2026-11-22",
+    "createdAt": "2026-11-08T14:10:00.000Z",
+    "updatedAt": "2026-11-08T14:10:00.000Z"
+  },
+  {
+    "id": 7,
+    "title": "API dokümantasyonu yaz",
+    "description": "Her endpoint için request/response örnekleri ekle.",
+    "status": "todo",
+    "priority": "low",
+    "assignee": "zeynep",
+    "project": "TaskFlow",
+    "dueDate": null,
+    "createdAt": "2026-11-09T09:00:00.000Z",
+    "updatedAt": "2026-11-09T09:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "title": "Sunucu performans testi",
+    "description": "Backend uçlarının yanıt sürelerini ölç.",
+    "status": "completed",
+    "priority": "medium",
+    "assignee": "emre",
+    "project": "Altyapı",
+    "dueDate": "2026-11-11",
+    "createdAt": "2026-11-02T12:00:00.000Z",
+    "updatedAt": "2026-11-11T17:45:00.000Z"
+  }
+]
