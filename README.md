@@ -1,5 +1,7 @@
 # TaskFlow API
 
+🔗 **GitHub:** https://github.com/FFayken/taskflow-api
+
 **Görev ve Proje Yönetim Sistemi** — Node.js + Express.js ile geliştirilmiş REST API.
 Bir yazılım şirketinin ekip içindeki görevleri oluşturmasını, çalışanlara atamasını, durum ve önceliklerini takip etmesini ve temel raporlar almasını sağlar.
 
@@ -28,7 +30,7 @@ Bir yazılım şirketinin ekip içindeki görevleri oluşturmasını, çalışan
 
 ```bash
 # 1. Repoyu indirin
-git clone <repo-adresi>
+git clone https://github.com/FFayken/taskflow-api.git
 cd taskflow-api
 
 # 2. Bağımlılıkları kurun
