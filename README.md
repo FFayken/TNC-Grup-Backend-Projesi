@@ -1,6 +1,6 @@
 # TaskFlow API
 
-🔗 **GitHub:** https://github.com/FFayken/taskflow-api
+🔗 **GitHub:** https://github.com/FFayken/TNC-Grup-Backend-Projesi
 
 **Görev ve Proje Yönetim Sistemi** — Node.js + Express.js ile geliştirilmiş REST API.
 Bir yazılım şirketinin ekip içindeki görevleri oluşturmasını, çalışanlara atamasını, durum ve önceliklerini takip etmesini ve temel raporlar almasını sağlar.
@@ -30,8 +30,8 @@ Bir yazılım şirketinin ekip içindeki görevleri oluşturmasını, çalışan
 
 ```bash
 # 1. Repoyu indirin
-git clone https://github.com/FFayken/taskflow-api.git
-cd taskflow-api
+git clone https://github.com/FFayken/TNC-Grup-Backend-Projesi.git
+cd TNC-Grup-Backend-Projesi
 
 # 2. Bağımlılıkları kurun
 npm install
